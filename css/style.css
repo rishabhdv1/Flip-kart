@@ -1,0 +1,33 @@
+body{
+    
+}
+.r_tbdr{
+    border: 1px dashed red;
+}
+header{
+}
+main{
+
+}
+.r_slider{
+    height: 280px;
+    background: mediumturquoise;
+}
+footer{
+    
+    height: 2345px;
+}
+.r_footer1{
+    
+}
+.r_footer2{
+ height: 1990px;
+ background-color: yellow;
+}
+.r_footer3{
+    background: #172337;
+}
+.r_footer4{
+    
+    background: #172337;
+}
